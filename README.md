@@ -2,6 +2,7 @@
 based on https://github.com/Bodmer/TFT_eSPI library and https://nicuflorica.blogspot.com/2023/03/ceas-ntp-pe-afisaj-grafic-cu-driver.html
 
 1st article: https://nicuflorica.blogspot.com/2023/04/ceas-ntp-pe-afisaj-grafic-cu-driver.html
+
 2nd article: https://nicuflorica.blogspot.com/2023/04/ceas-ntp-pe-afisaj-grafic-cu-driver_8.html
 
 ![montaj](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi97nAn12bnvI5ZyFsQmhEs64Wzt7RX7085Q8xvS69sfevVpwT0A_IqnD0sVa4XuFmUmY25ARryCLheoncNnqFWwySBzsByoj0_aKMXjzRtcMDvoedUxKAQW3lO88QCBkKjucrueZQGoQo1aKB0tWN1zLxFS-dIwvjWnJd0MdY26h65jq0M26WUZtafXg/w200-h150/degeneric.jpg)
